@@ -1,4 +1,4 @@
-package br.com.dio.exercicios.lacos;
+package br.com.dio.exercicios.loops;
 /*
 Faça um programa que leia 5 números
 e informe o maior número

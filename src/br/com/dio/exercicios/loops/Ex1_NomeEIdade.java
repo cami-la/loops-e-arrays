@@ -1,4 +1,4 @@
-package br.com.dio.exercicios.lacos;
+package br.com.dio.exercicios.loops;
 /*
 Faça um programa que leia conjuntos de dois valores,
 o primeiro representando o nome do aluno e o segundo representando a sua idade.

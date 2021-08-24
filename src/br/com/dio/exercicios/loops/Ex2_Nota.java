@@ -1,4 +1,4 @@
-package br.com.dio.exercicios.lacos;
+package br.com.dio.exercicios.loops;
 /*
 Faça um programa que peça uma nota, entre zero e dez.
 Mostre uma mensagem caso o valor seja inválido

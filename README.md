@@ -13,6 +13,14 @@ Curso este que tive a honra de co-criar com a plataforma de cursos online <stron
 - [x] IDE para desenvolvimento Java 
 - [x] Conhecer a sintaxe Java
 
+<h2> 📚 Ementa</h2>
+
+👀 <a href=""> Visão geral: Estruturas de Repetição e Arrays</a> <br>
+
+➿ <a href=""> Exercícios Loops</a><br>
+
+⛓ <a href="https://github.com/cami-la/loops-e-arrays/tree/master/src/br/com/dio/exercicios/arrays"> Exercícios Arrays</a><br>
+
 <h2> ➿ ESTRUTURAS DE REPETIÇÃO </h2>
 
 🔸 O real poder dos computadores está na sua habilidade para repetir uma operação ou uma série de operações várias vezes (*loop*).<br>

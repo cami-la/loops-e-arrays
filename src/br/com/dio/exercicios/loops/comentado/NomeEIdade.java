@@ -1,4 +1,4 @@
-package br.com.dio.exercicios.lacos.comentado;
+package br.com.dio.exercicios.loops.comentado;
 
 import java.util.Scanner;
 
