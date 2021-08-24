@@ -91,18 +91,20 @@ Bidimensionais
 <h3 align="center"><em>📝 ARRAYS UNIDIMENSIONAIS</em></h3>
 🔗 <em>Lista de Exercícios:</em> https://wiki.python.org.br/ExerciciosListas<br>
 <br>
-<strong>🔹1.</strong> Faça um Programa que leia um vetor de 5 números reais e mostre-os na ordem inversa.<br>
+<strong>🔹Ordem Inversa: </strong> Faça um Programa que leia um vetor de 5 números inteiros
+e mostre-os na ordem inversa.<br>
 <br>
-<strong>🔹2.</strong> Faça um Programa que leia um vetor de 4 caracteres, e diga quantas consoantes foram lidas. Imprima as consoantes.<br>
+<strong>🔹Consoantes: </strong> Faça um Programa que leia um vetor de 6 caracteres, e diga quantas consoantes foram lidas.
+Imprima as consoantes.<br>
 <br>
-<strong>🔹3.</strong> Faça um Programa que leia 20 números inteiros aleatórios (entre 0 e 100) armazene-os num vetor.
-Ao final mostre os números e seus sucessores.
+<strong>🔹Números Aleatórios: </strong> Faça um Programa que leia 20 números inteiros aleatórios (entre 0 e 100) armazene-os num vetor.
+Ao final, mostre os números e seus sucessores.
 
 <h3 align="center"><em>📝 ARRAYS MULTIDIMENSIONAIS</em></h3>
 
 🔗 <em>Lista de Exercícios:</em> https://www.slideshare.net/loianeg/curso-java-basico-exercicios-aula-20?from_action=save<br>
 <br>
-<strong>🔹1.</strong> Gere e imprima uma matriz M 4x4 com valores aleatórios entre 0-9. Após isso determine o maior número da matriz e a sua posição(linha, coluna).<br>
+<strong>🔹Array Multidimensional: </strong> Gere e imprima uma matriz M 4x4 com valores aleatórios entre 0-9. Após isso determine o maior número da matriz e a sua posição(linha, coluna).<br>
 <br>
 
 ------------
