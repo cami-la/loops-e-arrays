@@ -17,7 +17,7 @@ Curso este que tive a honra de co-criar com a plataforma de cursos online <stron
 
 👀 <a href=""> Visão geral: Estruturas de Repetição e Arrays</a> <br>
 
-➿ <a href=""> Exercícios Loops</a><br>
+➿ <a href="https://github.com/cami-la/loops-e-arrays/tree/master/src/br/com/dio/exercicios/loops"> Exercícios Loops</a><br>
 
 ⛓ <a href="https://github.com/cami-la/loops-e-arrays/tree/master/src/br/com/dio/exercicios/arrays"> Exercícios Arrays</a><br>
 
