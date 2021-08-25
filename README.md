@@ -36,8 +36,7 @@ Curso este que tive a honra de co-criar com a plataforma de cursos online <stron
 🔸Quando comando *continue* é executado, os comandos restantes da repetição são ignorados e programa volta a testar novamente a condição.<br>
 
 <h3> 📊 FLUXOGRAMAS </h3>	
-<img src="https://i.ibb.co/gj0Yf3v/Screenshot-from-2021-08-19-22-22-18.png" alt="Screenshot-from-2021-08-19-22-22-18" border="0">
-
+<img src="https://i.ibb.co/gjXpxbt/Screenshot-from-2021-08-25-09-44-42.png" alt="Screenshot-from-2021-08-25-09-44-42" border="0">
 <h3> ➕/➖ OPERADORES DE INCREMENTO E DECREMENTO </h3>
 <img src="https://i.ibb.co/GTb9JNb/Screenshot-from-2021-08-23-10-56-10.png" alt="Screenshot-from-2021-08-23-10-56-10" border="0">
 
