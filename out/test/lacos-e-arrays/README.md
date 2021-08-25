@@ -55,7 +55,7 @@ Curso este que tive a honra de co-criar com a plataforma de cursos online <stron
 🔗 https://www.tutorialspoint.com/How-to-use-labels-in-Java-code<br>
 
 ------------
-<h3 align="center"> 💭 EXERCÍCIOS ESTRUTURAS DE REPETIÇÃO</h3>
+<h3 align="center"> 💭 EXERCÍCIOS ESTRUTURAS DE REPETIÇÃO</a></h3>
 🔗 <em>Lista de exercícios:</em> https://wiki.python.org.br/EstruturaDeRepeticao
 
 <h3 align="center"><em>📝 WHILE</em></h3>
@@ -70,7 +70,7 @@ Curso este que tive a honra de co-criar com a plataforma de cursos online <stron
 
 <strong>🔸Maior e Média: </strong> Faça um programa que leia 5 números e informe o maior número e a média desses números.<br>
 
-<strong>🔸Par e ímpar: </strong> Faça um programa que peça N números inteiros, calcule e mostre a quantidade de números pares e a quantidade de números impares.<br>
+<strong>🔸Par e ímpar:</strong> Faça um programa que peça N números inteiros, calcule e mostre a quantidade de números pares e a quantidade de números impares.<br>
 
 <h3 align="center"><em>📝 FOR</em></h3>
 
@@ -90,12 +90,8 @@ Ex.: 5!=5.4.3.2.1=120<br>
 
 <h2>⛓️ ARRAYS </h2>
 
-🔹 Array é um objeto utilizado para armazenar seqüencialmente dados do mesmo tipo.<br>
-🔹 Permanecem com o mesmo tamanho depois de criados.<br>
-
-<h3>ARRAYS</h3>
-
-<img src="https://i.ibb.co/GVQVC4k/Screenshot-from-2021-08-25-09-11-48.png" alt="Screenshot-from-2021-08-25-09-11-48" border="0">
+Unidimensionais
+Bidimensionais
 
 ------------
 <h3 align="center"> 💭 EXERCÍCIOS ARRAYS</h3>
@@ -116,7 +112,7 @@ Ao final, mostre os números e seus sucessores.
 
 🔗 <em>Lista de Exercícios:</em> https://www.slideshare.net/loianeg/curso-java-basico-exercicios-aula-20?from_action=save<br>
 <br>
-<strong>🔹Array Multidimensional: </strong> Gere e imprima uma matriz M 4x4 com valores aleatórios entre 0-9. Após isso determine o menor número da matriz e a sua posição(linha, coluna).<br>
+<strong>🔹Array Multidimensional: </strong> Gere e imprima uma matriz M 4x4 com valores aleatórios entre 0-9. Após isso determine o maior número da matriz e a sua posição(linha, coluna).<br>
 <br>
 
 ------------
@@ -129,6 +125,7 @@ Ao final, mostre os números e seus sucessores.
 🔗 https://blog.grancursosonline.com.br/java-operadores-de-incremento-e-decremento/<br>
 🔗 http://www.facom.ufu.br/~bacala/POO/04%20-%20Arrays%20em%20Java.pdf<br>
 🔗 http://www.inf.ufsc.br/~frank.siqueira/INE5404/7.Arrays.pdf<br>
+
 	
 	
 <h2> 🤝 Contribuindo </h2>
