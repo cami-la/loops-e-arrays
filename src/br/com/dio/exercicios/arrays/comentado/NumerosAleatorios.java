@@ -11,7 +11,8 @@ public class NumerosAleatorios {
 
         int[] numeros = new int[20]; //array com 20 posições
 
-        for (int i = 0; i < 20; i++) { //para: variável i = numero, até i menor que 20, acrescentamos 1 ao valor de i a cada loop.
+        //para: variável i = numero, até i menor que o tamanho do array, acrescentamos 1 ao valor de i a cada loop.
+        for (int i = 0; i < numeros.length; i++) {
             int numero = random.nextInt(100); //pegando um número aleatório entre 0 e 100.
             numeros[i] = numero; //atribuindo esse valor ao elemento na respectiva posição do array numeros.
         }
@@ -28,7 +29,5 @@ public class NumerosAleatorios {
         for (int numero : numeros) { //para cada numero dentro do array de números
             System.out.print((numero + 1) + " "); //adicione o valor 1 ao número e imprima esse novo valor
         }
-
-
     }
 }

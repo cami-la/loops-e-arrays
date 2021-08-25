@@ -55,7 +55,7 @@ Curso este que tive a honra de co-criar com a plataforma de cursos online <stron
 🔗 https://www.tutorialspoint.com/How-to-use-labels-in-Java-code<br>
 
 ------------
-<h3 align="center"> 💭 EXERCÍCIOS ESTRUTURAS DE REPETIÇÃO</a></h3>
+<h3 align="center"> 💭 EXERCÍCIOS ESTRUTURAS DE REPETIÇÃO</h3>
 🔗 <em>Lista de exercícios:</em> https://wiki.python.org.br/EstruturaDeRepeticao
 
 <h3 align="center"><em>📝 WHILE</em></h3>
@@ -112,7 +112,7 @@ Ao final, mostre os números e seus sucessores.
 
 🔗 <em>Lista de Exercícios:</em> https://www.slideshare.net/loianeg/curso-java-basico-exercicios-aula-20?from_action=save<br>
 <br>
-<strong>🔹Array Multidimensional: </strong> Gere e imprima uma matriz M 4x4 com valores aleatórios entre 0-9. Após isso determine o maior número da matriz e a sua posição(linha, coluna).<br>
+<strong>🔹Array Multidimensional: </strong> Gere e imprima uma matriz M 4x4 com valores aleatórios entre 0-9. Após isso determine o menor número da matriz e a sua posição(linha, coluna).<br>
 <br>
 
 ------------
