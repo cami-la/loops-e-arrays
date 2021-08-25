@@ -93,8 +93,6 @@ Ex.: 5!=5.4.3.2.1=120<br>
 🔹 Array é um objeto utilizado para armazenar seqüencialmente dados do mesmo tipo.<br>
 🔹 Permanecem com o mesmo tamanho depois de criados.<br>
 
-<h3>ARRAYS</h3>
-
 <img src="https://i.ibb.co/GVQVC4k/Screenshot-from-2021-08-25-09-11-48.png" alt="Screenshot-from-2021-08-25-09-11-48" border="0">
 
 ------------
