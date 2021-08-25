@@ -15,6 +15,8 @@ Curso este que tive a honra de co-criar com a plataforma de cursos online <stron
 
 <h2> 📚 Ementa</h2>
 
+Ao assistir este curso, Dev será capaz de entender na prática como trabalhar com as estruturas de repetição (while/do-while/for) e arrays. Se tratando de arrays, também vamos conhecer a estrutura foreach.
+
 👀 <a href=""> Visão geral: Estruturas de Repetição e Arrays</a> <br>
 
 ➿ <a href="https://github.com/cami-la/loops-e-arrays/tree/master/src/br/com/dio/exercicios/loops"> Exercícios Loops</a><br>
@@ -89,7 +91,7 @@ Ex.: 5!=5.4.3.2.1=120<br>
 
 <h2>⛓️ ARRAYS </h2>
 
-🔹 Array é um objeto utilizado para armazenar seqüencialmente dados do mesmo tipo.<br>
+🔹 Array é um objeto utilizado para armazenar sequencialmente dados do mesmo tipo.<br>
 🔹 Permanecem com o mesmo tamanho depois de criados.<br>
 
 <img src="https://i.ibb.co/GVQVC4k/Screenshot-from-2021-08-25-09-11-48.png" alt="Screenshot-from-2021-08-25-09-11-48" border="0">
