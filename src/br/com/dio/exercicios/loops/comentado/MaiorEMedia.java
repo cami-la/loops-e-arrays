@@ -12,8 +12,8 @@ public class MaiorEMedia {
 
         //variáveis
         double maior = 0; //guarda o maior número
-        double media; //guarda a média
         double soma = 0; //guarda a soma
+        double media; //guarda a média
 
         int count = 0; //controla o loop
         //loop
