@@ -5,12 +5,12 @@ import java.util.List;
 import java.util.Scanner;
 
 /*
-Faça um Programa que leia um vetor de 5 números inteiros
+Crie um vetor de 6 números inteiros
 e mostre-os na ordem inversa.
 */
 public class OrdemInversa {
     public static void main(String[] args) {
-        int[] vetor = {5, 8, 9, 6, 11}; //inicializando um vetor com 5 elementos.
+        int[] vetor = {5, 8, 9, 6, 11, -1}; //inicializando um vetor com 5 elementos.
 
         int count = (vetor.length - 1); //o contador deverá ser um número menor que o tamanho do vetor.
         System.out.print("Vetor Inverso: "); //Frase ilustrativa

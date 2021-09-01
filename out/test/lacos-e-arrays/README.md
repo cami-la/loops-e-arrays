@@ -17,7 +17,7 @@ Curso este que tive a honra de co-criar com a plataforma de cursos online <stron
 
 Ao assistir este curso, Dev será capaz de entender na prática como trabalhar com as estruturas de repetição (while/do-while/for) e arrays. Se tratando de arrays, também vamos conhecer a estrutura foreach.
 
-👀 <a href="https://docs.google.com/presentation/d/1G3MDuxTjdEGcDBguVoanbP9-xipy8v46/edit?usp=sharing&ouid=114707527529839266022&rtpof=true&sd=true"> Visão geral: Estruturas de Repetição e Arrays</a> <br>
+👀 <a href="https://docs.google.com/presentation/d/1G3MDuxTjdEGcDBguVoanbP9-xipy8v46/edit?usp=sharing&ouid=114707527529839266022&rtpof=true&sd=true" target="_blank"> Visão geral: Estruturas de Repetição e Arrays</a> <br>
 
 ➿ <a href="https://github.com/cami-la/loops-e-arrays/tree/master/src/br/com/dio/exercicios/loops"> Exercícios Loops</a><br>
 

@@ -12,6 +12,8 @@ public class Consoantes {
         String[] consoantes = new String[6]; //iniciando um arrays vazio com 6 posições
 
         int count = 0; //controla o loop
+        int quantidadeDeConsoantes = 0;
+
         //loop
         do {
             System.out.print("Letra: "); //Peça uma letra
@@ -25,6 +27,7 @@ public class Consoantes {
                     letra.equalsIgnoreCase("u"))) {
                 //atribua a letra ao elemento do vetor na posição indicada pelo contador, caso seja consoante.
                 consoantes[count] = letra;
+                quantidadeDeConsoantes++;
             }
             count++; //acrescente o valor 1 ao contador a cada loop
         } while (count < consoantes.length); //enquanto o contador tiver o valor menor que o tamanho do array
@@ -34,5 +37,6 @@ public class Consoantes {
             if (consoante != null) //se o valor da consoante for diferente de null
                 System.out.print(consoante + " "); //imprima a consoante
         }
+        System.out.println("Quantidade de consoantes: " + quantidadeDeConsoantes);
     }
 }
