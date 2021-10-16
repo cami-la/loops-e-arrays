@@ -70,7 +70,7 @@ Ao assistir este curso, Dev será capaz de entender na prática como trabalhar c
 
 <strong>🔸Maior e Média: </strong> Faça um programa que leia 5 números e informe o maior número e a média desses números.<br>
 
-<strong>🔸Par e Ímpar: </strong> Faça um programa que peça N números inteiros, calcule e mostre a quantidade de números pares e a quantidade de números impares.<br>
+<strong>🔸Par e Ímpar: </strong> Faça um programa que peça N números inteiros. Calcule e mostre a quantidade de números pares e a quantidade de números impares.<br>
 
 <h3 align="center"><em>📝 FOR</em></h3>
 
