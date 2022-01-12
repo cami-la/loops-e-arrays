@@ -61,7 +61,7 @@ Ao assistir este curso, Dev será capaz de entender na prática como trabalhar c
 <h3 align="center"><em>📝 WHILE</em></h3>
 
 
-<strong>🔸Nome e Idade:</strong> Faça um programa que leia conjuntos de dois valores, o primeiro representando a matrícula do aluno e o segundo representando a sua altura em centímetros. (Pare inserindo o valor 0 no campo nome)<br>
+<strong>🔸Nome e Idade:</strong> Faça um programa que leia conjuntos de dois valores, o primeiro representando o nome do aluno e o segundo representando a sua idade. (Pare o programa inserindo o valor 0 no campo nome)<br>
 
 <strong>🔸Nota: </strong> Faça um programa que peça uma nota, entre zero e dez. Mostre uma mensagem caso o valor seja inválido e continue pedindo até que o usuário informe um valor válido.
 
