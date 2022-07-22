@@ -12,7 +12,7 @@ public class ArrayMultidimensional {
         int[][] M = new int[4][4]; //declaração de uma matriz multidimensional
 
         //variáveis
-        int menor = Integer.MIN_VALUE; //variável que guarda o menor valor
+        int menor = Integer.MAX_VALUE; //variável que guarda o menor valor
         int linha = 0, coluna = 0; //posição inicial da linha e da coluna
 
         //para: variável i = 0, até i menor que o tamanho da matriz (array multidimencional), acrescentamos 1 ao valor de i a cada loop.
